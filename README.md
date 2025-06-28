@@ -20,7 +20,7 @@ From here:
 
 Click “Add New Role”
 
-Enter a name for the role (e.g., Supreme Admin)
+Enter a name for the role (e.g., SysAdmins)
 
 Assign the appropriate permissions
 
