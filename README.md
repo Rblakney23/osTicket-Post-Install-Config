@@ -88,52 +88,42 @@ Add agents who specialize in specific products or advanced issues
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bYvDVTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
-
-Navigate to:
-Admin Panel → Agents → Teams
-
-Key points:
-
-A default Level I Support team is already provided.
-
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
-
-To create a team:
-
-Click “Add New Team”
-
-Enter a name (e.g., Level II Support)
-
-Add agents who specialize in specific products or advanced issues
+Now that we have set up a new team, we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8RqAIp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+With departments and teams in place, the next step is to create Agents — the help desk staff responsible for handling and resolving support tickets.
 
 Navigate to:
-Admin Panel → Agents → Teams
+Admin Panel → Agents → Add New Agent
 
-Key points:
+Key Concepts:
+Each Agent is assigned a primary department and a primary role within that department.
 
-A default Level I Support team is already provided.
+Agents can also be granted access to multiple departments, each with custom role assignments depending on their responsibilities in that area.
 
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+Roles define what an agent can view or modify, while departments determine what types of tickets they’ll handle.
 
-To create a team:
+You can also assign Agents to teams for cross-department collaboration.
 
-Click “Add New Team”
+Within the Agents tab, you’ll configure:
 
-Enter a name (e.g., Level II Support)
+Login credentials
 
-Add agents who specialize in specific products or advanced issues
+Department assignments
+
+Role-based permissions
+
+Team memberships
+
+Once added, agents will be able to log in to the help desk portal, view assigned tickets, and respond according to their permissions.
 </p>
 <br />
 
