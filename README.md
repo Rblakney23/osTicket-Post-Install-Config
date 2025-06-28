@@ -86,3 +86,129 @@ Enter a name (e.g., Level II Support)
 Add agents who specialize in specific products or advanced issues
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
+</p>
+<br />
+
