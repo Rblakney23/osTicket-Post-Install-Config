@@ -63,9 +63,26 @@ Once saved, the new department should appear in your Departments list.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+
+Navigate to:
+Admin Panel → Agents → Teams
+
+Key points:
+
+A default Level I Support team is already provided.
+
+For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+
+To create a team:
+
+Click “Add New Team”
+
+Enter a name (e.g., Level II Support)
+
+Add agents who specialize in specific products or advanced issues
 </p>
 <br />
