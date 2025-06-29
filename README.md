@@ -131,77 +131,65 @@ Once added, agents will be able to log in to the help desk portal, view assigned
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rMCJ2Ww.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+After setting up your agents, the next step is to create Users — the individuals who submit support tickets when they encounter issues. These users represent your customers or clients, and their interactions form the core of the ticketing system.
 
+In osTicket, each user is identified by their email address, which is used to track and associate all submitted tickets.
+
+To create a new user:
 Navigate to:
-Admin Panel → Agents → Teams
+Agent Panel → Users → User Directory → Add New
 
-Key points:
+From here, you can:
 
-A default Level I Support team is already provided.
+- Enter the user’s name and email address
 
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+- Optionally assign them to an organization
 
-To create a team:
-
-Click “Add New Team”
-
-Enter a name (e.g., Level II Support)
-
-Add agents who specialize in specific products or advanced issues
+- Begin tracking their ticket history and communications
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TIhKVpM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+SLA Plans (Service Level Agreements) define the expected response and resolution timeframes for tickets. They help ensure that support requests are addressed within a specified time window, based on their urgency or severity.
 
-Navigate to:
-Admin Panel → Agents → Teams
+To create or manage SLA Plans, navigate to:
+Admin Panel → Manage → SLA Plans
 
-Key points:
+Key Components of an SLA Plan:
+Schedule – Defines the working hours during which the SLA timer runs (e.g., 24/7 or business hours).
 
-A default Level I Support team is already provided.
+Grace Period – The maximum amount of time allowed to respond to or resolve a ticket.
 
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+Example:
+In this lab, we’ve created an SLA Plan called SEV-A to handle high-priority issues.
 
-To create a team:
+Schedule: 24/7 (non-stop monitoring and ticket processing)
 
-Click “Add New Team”
-
-Enter a name (e.g., Level II Support)
-
-Add agents who specialize in specific products or advanced issues
+Grace Period: 1 hour (tickets must be responded to within one hour)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tfSjsYt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+Help Topics allow users to categorize their support requests when submitting a ticket. This improves ticket routing, prioritization, and overall workflow efficiency by ensuring that tickets reach the right team or department quickly.
 
-Navigate to:
-Admin Panel → Agents → Teams
+To configure help topics, navigate to:
+Admin Panel → Manage → Help Topics
 
-Key points:
+Example:
+In this lab, we’ve created a help topic called "Business Critical Outage" to handle high-impact incidents such as:
 
-A default Level I Support team is already provided.
+Customers being unable to access mobile banking
 
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
-
-To create a team:
-
-Click “Add New Team”
-
-Enter a name (e.g., Level II Support)
-
-Add agents who specialize in specific products or advanced issues
+Downtime affecting core business services
 </p>
 <br />
 
