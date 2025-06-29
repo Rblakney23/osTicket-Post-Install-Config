@@ -63,27 +63,25 @@ Once saved, the new department should appear in your Departments list.
 <br />
 
 <p>
-<img src="https://i.imgur.com/PRm6FQl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PbASDHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
+After setting up your agents, the next step is to create Users — the individuals who submit support tickets when they encounter issues. These users represent your customers or clients, and their interactions form the core of the ticketing system.
 
+In osTicket, each user is identified by their email address, which is used to track and associate all submitted tickets.
+
+To create a new user:
 Navigate to:
-Admin Panel → Agents → Teams
+Agent Panel → Users → User Directory → Add New
 
-Key points:
+From here, you can:
 
-A default Level I Support team is already provided.
+Enter the user’s name and email address
 
-For this example, we’ll create a Level II Support team composed of advanced technicians from multiple departments.
+Optionally assign them to an organization
 
-To create a team:
+Begin tracking their ticket history and communications
 
-Click “Add New Team”
-
-Enter a name (e.g., Level II Support)
-
-Add agents who specialize in specific products or advanced issues
 </p>
 <br />
 
