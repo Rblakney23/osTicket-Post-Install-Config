@@ -8,7 +8,7 @@ This tutorial will demonstrate the post configuration setup of the osTicket syst
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/WErRgz9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WErRgz9.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 we’ve successfully completed the base installation and configuration of osTicket. Now we’ll move on to some post-installation system administration, starting with creating custom user roles within the help desk.
@@ -33,7 +33,7 @@ If configured correctly, you should see your newly created “Supreme Admin” r
 <br />
 
 <p>
-<img src="https://i.imgur.com/1wyK8VK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1wyK8VK.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we’ll set up a new department within osTicket to help organize agents based on their responsibilities.
@@ -63,7 +63,7 @@ Once saved, the new department should appear in your Departments list.
 <br />
 
 <p>
-<img src="https://i.imgur.com/3roP9Pr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3roP9Pr.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After creating departments, the next step is to configure teams. Teams in osTicket allow you to group agents across different departments based on skill sets or support tiers. This provides flexibility in assigning tickets to specialized groups, regardless of departmental structure.
@@ -91,7 +91,7 @@ You can create a help topic related to a specific product or issue type, and ass
 <br />
 
 <p>
-<img src="https://i.imgur.com/bYvDVTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bYvDVTg.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that we have set up a new team, we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
@@ -99,7 +99,7 @@ Now that we have set up a new team, we will create a new setting that will allow
 <br />
 
 <p>
-<img src="https://i.imgur.com/8RqAIp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8RqAIp1.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 With departments and teams in place, the next step is to create Agents — the help desk staff responsible for handling and resolving support tickets.
@@ -131,7 +131,7 @@ Once added, agents will be able to log in to the help desk portal, view assigned
 <br />
 
 <p>
-<img src="https://i.imgur.com/rMCJ2Ww.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rMCJ2Ww.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After setting up your agents, the next step is to create Users — the individuals who submit support tickets when they encounter issues. These users represent your customers or clients, and their interactions form the core of the ticketing system.
@@ -153,7 +153,7 @@ From here, you can:
 <br />
 
 <p>
-<img src="https://i.imgur.com/TIhKVpM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TIhKVpM.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 SLA Plans (Service Level Agreements) define the expected response and resolution timeframes for tickets. They help ensure that support requests are addressed within a specified time window, based on their urgency or severity.
@@ -176,7 +176,7 @@ Grace Period: 1 hour (tickets must be responded to within one hour)
 <br />
 
 <p>
-<img src="https://i.imgur.com/tfSjsYt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tfSjsYt.png" height="400%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Help Topics allow users to categorize their support requests when submitting a ticket. This improves ticket routing, prioritization, and overall workflow efficiency by ensuring that tickets reach the right team or department quickly.
